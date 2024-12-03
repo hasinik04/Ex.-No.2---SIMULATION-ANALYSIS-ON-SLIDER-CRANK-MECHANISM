@@ -38,9 +38,9 @@
 
 
 ## Output
-![Screenshot 2024-12-02 221157](https://github.com/user-attachments/assets/2f581a80-718e-4615-95cb-b14acb76e197)
-![Screenshot 2024-12-02 221144](https://github.com/user-attachments/assets/6b81ca18-7605-47a5-a6b9-4f21b846ea44)
-![Screenshot (11)](https://github.com/user-attachments/assets/827cc759-56cb-4937-8a2f-3515e622e1b3)
+![Screenshot 2024-12-03 170044](https://github.com/user-attachments/assets/a18cccd7-91d8-4f38-b371-9ec85b380e4c)
+![Screenshot 2024-12-03 165654](https://github.com/user-attachments/assets/77ecb506-ad49-4707-95b2-53a2929e3eef)
+![Screenshot 2024-12-03 170113](https://github.com/user-attachments/assets/5fd8ee12-463a-488f-97d8-991be2c088c8)
 
 
 ### Name:Kathi Hasini 
